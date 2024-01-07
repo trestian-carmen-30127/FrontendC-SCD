@@ -1,0 +1,17 @@
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\bin\Debug\net6.0-windows\frontend.exe
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\bin\Debug\net6.0-windows\frontend.deps.json
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\bin\Debug\net6.0-windows\frontend.runtimeconfig.json
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\bin\Debug\net6.0-windows\frontend.dll
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\bin\Debug\net6.0-windows\frontend.pdb
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.csproj.AssemblyReference.cache
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.Form1.resources
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.csproj.GenerateResource.cache
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.AssemblyInfoInputs.cache
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.AssemblyInfo.cs
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.csproj.CoreCompileInputs.cache
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.dll
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\refint\frontend.dll
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.pdb
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\frontend.genruntimeconfig.cache
+C:\Users\trest\Documents\SCD PROIECT\frontend\frontend\obj\Debug\net6.0-windows\ref\frontend.dll
